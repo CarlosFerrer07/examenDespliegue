@@ -36,3 +36,4 @@ jobs:
           docker push ${{ secrets.DOCKER_USER }}/enana:latest
           echo "Última versión subida"
 
+
